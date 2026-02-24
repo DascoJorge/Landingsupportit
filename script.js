@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Typewriter Effect
     const typewriterElement = document.getElementById('typewriter');
     if (typewriterElement) {
-        const texts = ["Seguridad Avanzada", "Redes de Fibra", "CRM Inteligente", "Páginas Web"];
+        const texts = ["Seguridad Avanzada", "Redes Estructuradas", "CRM Inteligente", "Páginas Web"];
         let count = 0;
         let index = 0;
         let currentText = '';
